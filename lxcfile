@@ -1,0 +1,3 @@
+name=scratch-api
+template=jessie-php-percona
+mount=.:/var/www/scratch-api
